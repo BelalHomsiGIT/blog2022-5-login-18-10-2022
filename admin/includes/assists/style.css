@@ -1,0 +1,36 @@
+.main{
+    height: 100vh;
+    /* width: 100%; */
+}
+.header{
+    font-style: italic;
+}
+.statistics-icon{
+    text-align:center;
+    font-size:30px;
+}
+/* #main-dshbrd{
+    margin: 0;
+    width: max-content; #1e3799
+    background-color: rgb(208, 226, 250) ;
+    color: yellowgreen;
+} */
+.box{
+    width: 275px;
+    height: 125px;
+    padding: 20px;
+    background-color: #079992;
+    color: #dfe4ea;
+}
+.statics-box{
+    margin-top: 10px;
+}
+
+/* NavBar */
+.curr-active{
+    color: #fff !important;
+}
+.user-status{
+    width: 80px;
+    height: 25px;
+}

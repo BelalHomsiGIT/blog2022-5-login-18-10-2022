@@ -1,0 +1,43 @@
+/* NavBar */
+.curr-active{
+    color: #fff !important;
+}
+
+/* Register page START*/
+.register{
+    width: 60%;
+    padding: 10px;
+    font-size: smaller;
+    border: 1px outset rgb(10, 38, 80);
+    border-radius: 5px; 
+    background-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.title{
+    color: rgb(241, 230, 215);
+    text-align: center;
+}
+.frm{
+    /* margin-left: 550px; */
+    padding: 15px;
+    border: 0.1px solid rgb(63, 56, 56);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(192, 238, 150, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.err{
+    height: 18px;
+}
+.trailer{
+    margin-top: 15px;
+    color: rgb(241, 230, 215);
+    text-align: center;
+}
+.trailer > p {
+    font-size: smaller;
+    margin-top: 10px;
+}
+.spn{
+    color: rgb(52, 250, 52);
+}
+
+/* Register page END*/
